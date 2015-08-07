@@ -1,0 +1,195 @@
+;;;;;;
+2015 - Bookkeeping to Trial Balance;;;;;;
+;;;;;;
+Revision Videos;;;;;;
+;;Study Phases;Category;Code;Title;Vimeo code
+;;;;;;
+;Revision Videos - A collection of Revision videos;Study Phase 1 - Formative Activity and Evaluation 1;ACEQVI - Accounting equation: VAT ignored;ACEQVIclip1;Introduction & Overview;54269179
+;;;;ACEQVIclip2;Day 1 - Drawings of inventory;54269418
+;;;;ACEQVIclip3;Day 7 - Rent paid by debit order;54269419
+;;;;ACEQVIclip4;Day 14 - Non-current asset purchased on credit;54269420
+;;;;ACEQVIclip5;Day 15 - Cash sales of trading inventory;54269421
+;;;;ACEQVIclip6;Day 26 - Credit sales of trading inventory;54269423
+;;;;ACEQVIclip7;Day 27 - Return of inventory by debtor;54269882
+;;;;;;
+;;;GLACCT - General ledger account types;GLACCTclip1;Introduction & Overview;54270251
+;;;;GLACCTclip2;Matching Acccounts to Categories;54270253
+;;;;;;
+;;;VATCAT - VAT categories;VATCATclip1;Introduction & Overview;54271859
+;;;;VATCATclip2;Completing the 1st table;54270390
+;;;;VATCATclip3;Completing the 2nd table;54270389
+;;;;;;
+;;;BAVATC - Basic VAT calculations and mark-ups;BAVATCclip1;Introduction & Overview;54270987
+;;;;BAVATCclip2;Step 1 - Using exclusive prices in calculations;54272577
+;;;;BAVATCclip3;Step 2 - Working with a mark-up on cost;54270988
+;;;;BAVATCclip4;Step 3 - Calculating Gross Profit and Gross Margin;54270989
+;;;;BAVATCclip5;Step 4 - Finding the remaining items;54270990
+;;;;;;
+;;Study Phase 2 - Formative Activity and Evaluation 2;SJPETD - Subsidiary journals and general ledger: Perpetual debtors;SJPETDclip1;Introduction;54277008
+;;;;SJPETDclip2;Overview;54277010
+;;;;SJPETDclip3;Day 1 - Capital contribution in cash;54271297
+;;;;SJPETDclip4;Day 2 - Credit sale of inventory ;54277009
+;;;;SJPETDclip5;Day 8 - Cash sale of inventory ;54279310
+;;;;SJPETDclip6;Day 12 - Sale of inventory at trade discount;54272731
+;;;;SJPETDclip7;Day 12 - Capital contribution in the form of a vehicle;54272732
+;;;;SJPETDclip8;Day 13 - Returns by debtors (Duplicate credit notes);54273826
+;;;;SJPETDclip9;Day 15 - Receiving dividends from a share investment;54272733
+;;;;SJPETDclip10;Day 18 - Petty cash purchased of an item that attracts VAT;54272734
+;;;;SJPETDclip11;Day 19 - Credit sale of inventory;54273868
+;;;;SJPETDclip12;Day 21 - Sale of trading inventory at a trade discount;54273869
+;;;;SJPETDclip13;Day 21 - Drawings of inventory where a selling price is given;54273872
+;;;;SJPETDclip14;Day 22 - Petty cash purchase of a VAT exempt supply;54279507
+;;;;SJPETDclip15;Day 24 - Business rent received;54273873
+;;;;SJPETDclip16;Day 25 - Credit sale of inventory;54278093
+;;;;SJPETDclip17;Day 25 - Petty cash purchase of an item that attracts VAT;54279312
+;;;;SJPETDclip18;Day 26 - Returns by debtors (Duplicate credit notes);54278092
+;;;;SJPETDclip19;Day 26 - Cash receipt from a debtor (No discount);54278098
+;;;;SJPETDclip20;Day 27 - Cash sale of inventory (Mark-up on cost given);54279713
+;;;;SJPETDclip21;Day 27 - Drawings from petty cash by the owner;54278099
+;;;;SJPETDclip22;Day 28 - Returns by debtors (Duplicate credit notes);54278418
+;;;;SJPETDclip23;Day 30 - Cash receipt from a debtor (With settlement discount);54278596
+;;;;SJPETDclip24;Day 30 - Credit losses;54278419
+;;;;SJPETDclip25;Day 30 - Interest received on debtors' overdue accounts;54278694
+;;;;SJPETDclip26;Day 30 - Correction of an error;54278695
+;;;;SJPETDclip27;Adding up journals and posting to the general ledger;54278696
+;;;;;;
+;;;SJPETC - Subsidiary journals and general ledger: Perpetual creditors;SJPETCclip1;Introduction & Overview;54279907
+;;;;SJPETCclip2;Day 1 - Credit purchases of trading inventory;54283040
+;;;;SJPETCclip3;Day 4 - Cash purchases of consumables;54279906
+;;;;SJPETCclip4;Day 5 - Returns to creditors (Original credit notes);54283041
+;;;;SJPETCclip5;Day 8 - Increasing petty cash float;54283042
+;;;;SJPETCclip6;Day 9 - Payment to a creditor (No discount);54279806
+;;;;SJPETCclip7;Day 11 - Cash purchase of trading inventory;54283301
+;;;;SJPETCclip8;Day 11 - Credit purchase of inventory;54280718
+;;;;SJPETCclip9;Day 12 - Owner contributes a fixed asset to business;54280720
+;;;;SJPETCclip10;Day 13 - Purchases of trading inventory (Trade discount received);54283302
+;;;;SJPETCclip11;Day 13 - Credit purchase of office consumables;54280968
+;;;;SJPETCclip12;Day 14 - Cash purchase of stationery;54283304
+;;;;SJPETCclip13;Day 16 - Trading inventory returned to supplier (Original credit note);54280969
+;;;;SJPETCclip14;Day 16 - Credit purchase of a non-allowable and an allowable supply;54280970
+;;;;SJPETCclip15;Day 18 - Cash purchase of a passenger vehicle;54280971
+;;;;SJPETCclip16;Day 20 - Settlement of account with a creditor (Discount received);54281311
+;;;;SJPETCclip17;Day 21 - Drawings of cash by the owner;54283303
+;;;;SJPETCclip18;Day 21 - Drawings of inventory by the owner (Selling price given);54281312
+;;;;SJPETCclip19;Day 21 - Rebate on goods purchased previously (Original credit notes);54281313
+;;;;SJPETCclip20;Day 21 - Trading inventory purchased on credit (Trade discount received);54281646
+;;;;SJPETCclip21;Day 24 - Electricity charged on account;54285117
+;;;;SJPETCclip22;Day 25 - Cash purchase of furniture & fittings;54285119
+;;;;SJPETCclip23;Day 26 - Cash purchases of trading inventory;54281647
+;;;;SJPETCclip24;Day 27 - Defective consumables returned to supplier (Original credit notes);54281668
+;;;;SJPETCclip25;Day 28 - Inventory returned to supplier (Original credit notes);54285118
+;;;;SJPETCclip26;Day 28 - Property rates charged on account (No services);54286051
+;;;;SJPETCclip27;Day 30 - Petty cash purchase of non-allowable supplies;54286052
+;;;;SJPETCclip28;Day 30 - Salaries paid in cash;54281670
+;;;;SJPETCclip29;Day 30 - Interest charged by creditor;54282003
+;;;;SJPETCclip30;Day 30 - Correction of error;54286054
+;;;;SJPETCclip31;Adding up journals and posting to general ledger;54282004
+;;;;;;
+;;;SJPERD - Subsidiary journals and general ledger: Periodic debtors;SJPERDclip1;Introduction & Overview;54287149
+;;;;SJPERDclip2;Day 1 - Owner contributes cash to business;54287792
+;;;;SJPERDclip3;Day 2 - Credit sales of inventory (Periodic system);54287152
+;;;;SJPERDclip4;Day 8 - Cash sales of inventory (Periodic system);54287150
+;;;;SJPERDclip5;Day 12 - Credit sales of inventory (Trade discount given);54287216
+;;;;SJPERDclip6;Day 12 - Owner contrbutes a vehicle to business;54287794
+;;;;SJPERDclip7;Day 13 - Trading inventoy returned (duplicate credit notes);54287213
+;;;;SJPERDclip8;Day 15 - Interest on fixed deposit;54287219
+;;;;SJPERDclip9;Day 18 - Petty cash payment for packing material;54287795
+;;;;SJPERDclip10;Day 19 - Credit sales of inventory;54288902
+;;;;SJPERDclip11;Day 21 - Cash sales of inventory (Trade discount given);54288977
+;;;;SJPERDclip12;Day 21 - Drawings of inventory (Selling price & gross margin given);54288903
+;;;;SJPERDclip13;Day 22 - Purchase of coffee from petty cash;54288908
+;;;;SJPERDclip14;Day 24 - Received business rental in cash;54288910
+;;;;SJPERDclip15;Day 25 - Credit sales of trading inventory (Periodic system);54288911
+;;;;SJPERDclip16;Day 25 - Purchase of stationery from petty cash;54288920
+;;;;SJPERDclip17;Day 26 - Returns of inventory by debtors (Duplicate credit notes);54288978
+;;;;SJPERDclip18;Day 26 - Cash receipt from debtor (No discount);54288917
+;;;;SJPERDclip19;Day 27 - Cash sales of inventory (Periodic system);54358714
+;;;;SJPERDclip20;Day 27 - Drawings of cash from petty cash;54358715
+;;;;SJPERDclip21;Day 28 - Returns of inventory by debtors (Duplicate credit notes);54358716
+;;;;SJPERDclip22;Day 30 - Account settlement by debtor (Discount allowed);54359031
+;;;;SJPERDclip23;Day 30 - Credit losses;54359032
+;;;;SJPERDclip24;Day 30 - Interest received on debtors' overdue accounts;54359033
+;;;;SJPERDclip25;Day 30 - Correcting an error;54359036
+;;;;SJPERDclip26;Adding up journals and posting to general ledger;54359038
+;;;;;;
+;;;SJPERC - Subsidiary journals and general ledger: Periodic creditors;SJPERCclip1;Introduction;54359570
+;;;;SJPERCclip2;Overview;54360161
+;;;;SJPERCclip3;Day 1 - Credit purchase of inventory;54359576
+;;;;SJPERCclip4;Day 4 - Cash payment for repairs and maintenance;54361820
+;;;;SJPERCclip5;Day 5 - Inventory returned to supplier (Orignal credit notes);54360162
+;;;;SJPERCclip6;Day 8 - Cash cheque issued for wages;54360644
+;;;;SJPERCclip7;Day 9 - Cash payment to a creditor (No discount);54363239
+;;;;SJPERCclip8;Day 11 - Purchases of inventory (Cash & credit);54361821
+;;;;SJPERCclip9;Day 12 - Capital contribution by owner (Non-cash);54361914
+;;;;SJPERCclip10;Day 13 - Cash purchases of inventory (Trade discount given);54361825
+;;;;SJPERCclip11;Day 13 - Credit purchase of consumables;54364109
+;;;;SJPERCclip12;Day 14 - Cash purchase of postage and stationery;54363240
+;;;;SJPERCclip13;Day 16 - Inventory returned to supplier (Original credit notes);54361913
+;;;;SJPERCclip14;Day 16 - Credit purchase of furniture and fittings (Allowable vs. non-allowable);54364202
+;;;;SJPERCclip15;Day 18 - Cash purchase of non-allowable item;54364110
+;;;;SJPERCclip16;Day 20 - Settlement of account with a creditor (Discount received);54366084
+;;;;SJPERCclip17;Day 21 - Drawings of cash by the owner;54364472
+;;;;SJPERCclip18;Day 21 - Drawings of inventory by the owner (selling price given);54428493
+;;;;SJPERCclip19;Day 21 - Rebate granted on non-allowable item (Original credit note);54364473
+;;;;SJPERCclip20;Day 21 - Credit purchase of inventory (Trade discount given);54364478
+;;;;SJPERCclip21;Day 24 - Credit purchase of cleaning materials;54429272
+;;;;SJPERCclip22;Day 25 - Cash purchase of computer equipment;54366860
+;;;;SJPERCclip23;Day 26 - Cash purchase of inventory;54366859
+;;;;SJPERCclip24;Day 27 - Faulty consumables returned to supplier (Original credit note);54366865
+;;;;SJPERCclip25;Day 28 - Inventory returned to supplier (Original credit note);54429274
+;;;;SJPERCclip26;Day 28 - Credit purchase from a non-VAT vendor;54429275
+;;;;SJPERCclip27;Day 31 - Cash purchase of office refeshments (Non-allowable item);54428492
+;;;;SJPERCclip28;Day 31 - Cash payment of salaries;54428491
+;;;;SJPERCclip29;Day 31 - Interest expense (VAT exempt supply);54429277
+;;;;SJPERCclip30;Day 31 - Correction of an error;54429276
+;;;;SJPERCclip31;Adding up journals and posting to general ledger;54434123
+;;;;;;
+;;Study Phase 3 - Formative Activity 3 and Summative Assessment;BKTB2 - Accounting equation: VAT included;BKTB2clip1;Introduction;54364696
+;;;;BKTB2clip2;Important information about this question;54364697
+;;;;BKTB2clip3;Day 1 - Capital contribution by the owner (cash);54429504
+;;;;BKTB2clip4;Day 3 - Cash purchase of inventory;54429506
+;;;;BKTB2clip5;Day 4 - Cash payment of telephone expense;54429507
+;;;;BKTB2clip6;Day 6 - Credit purchase of inventory;54365667
+;;;;BKTB2clip7;Day 7 - Returns of inventory to a creditor;54365668
+;;;;BKTB2clip8;Day 8 - Settlement discount received (Creditors);54429505
+;;;;BKTB2clip9;Day 9 - Cash sale of inventory (Gross margin);54434459
+;;;;BKTB2clip10;Day 11 - Cash purchase of office furniture;54365664
+;;;;BKTB2clip11;Day 13 - Cheque issued for petty cash;54366728
+;;;;BKTB2clip12;Day 14 - Supplementary income received in cash;54366719
+;;;;BKTB2clip13;Day 15 - Capital contribution by the owner (Non-cash);54366722
+;;;;BKTB2clip14;Day 17 - Credit sale of inventory (Mark-up on cost);54366723
+;;;;BKTB2clip15;Day 18 - Returns of inventory by a debtor;54366724
+;;;;BKTB2clip16;Day 20 - Settlement discount granted (Debtors);54434185
+;;;;BKTB2clip17;Day 21 - Drawings of cash by the owner;54368346
+;;;;BKTB2clip18;Day 22 - Credit purchase of equipment;54368347
+;;;;BKTB2clip19;Day 24 - Credit sale of inventory (Mark-up on cost);54368348
+;;;;BKTB2clip20;Day 25 - Credit losses (Bad debts);54368350
+;;;;BKTB2clip21;Day 26 - Purchase of zero-rated supply;54368359
+;;;;BKTB2clip22;Day 27 - Drawings of inventory by the owner;54368364
+;;;;BKTB2clip23;Day 28 - Interest earned (exempt supply);54368369
+;;;;;;
+;;;SUBLDB - Subsidiary ledger: Debtors;SUBLDBclip1;Introduction & Overview;54436922
+;;;;SUBLDBclip2;Q. Quebec;54436923
+;;;;SUBLDBclip3;H. Henry;54428802
+;;;;SUBLDBclip4;K. Kurt;54428800
+;;;;SUBLDBclip5;K. Legget & L. Red;54436924
+;;;;SUBLDBclip6;Debtors control account;54436927
+;;;;;;
+;;;SUBLCR - Subsidiary ledger: Creditors;SUBLCRclip1;Introduction & Overview;54441151
+;;;;SUBLCRclip2;SA Steel Ltd.;54441143
+;;;;SUBLCRclip3;Reveret Suppliers;54441144
+;;;;SUBLCRclip4;Game;54441147
+;;;;SUBLCRclip5;Horner Traders;54441150
+;;;;SUBLCRclip6;Supply Land;54442255
+;;;;SUBLCRclip7;Creditors control account;54442257
+;;;;;;
+;;;BANREC - Bank Reconciliation;BANKRECclip1;Introduction & Overview;54442256
+;;;;BANKRECclip2;Enter opening balances;54509884
+;;;;BANKRECclip3;Step 1;54511055
+;;;;BANKRECclip4;Step 2;54509882
+;;;;BANKRECclip5;Step 3;54510258
+;;;;BANKRECclip6;Step 4;54510257
+;;;;BANKRECclip7;Step 5;54510259
+;;;;BANKRECclip8;Step 6;54511053
+;;;;BANKRECclip9;Step 7;54511054
+;;;;;;
